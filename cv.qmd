@@ -123,7 +123,7 @@ format:
 
 ### **Data Analysis & Computational Tools**
 
-- **Statistical Analysis & Visualization:** Advanced modeling in R (GLMMs, piecewiseSEM, ggplot2).
+- **Statistical Analysis & Visualization:** Advanced modeling in R (e.g., GLMMs, piecewiseSEM).
 - **Video & Image Annotation:** EventMeasure (SeaGIS), CoralNet, CPCe.
 - **Bioinformatics:** Phylogenetic tree construction (CIPRES, MEGA).
 

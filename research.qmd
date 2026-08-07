@@ -107,9 +107,7 @@ Investigated the organismal traits and unique algal symbiont associations of two
 
 - **Hsu, T.-H. T.**, Hoey, A. S., Ferrari, R., Toor, M., Gordon, S., Remmers, T., Smallhorn-West, J., Piccaluga, A., & Figueira, W. F. (in press). Corallivore assemblage, feeding behaviour, and cover of *Acropora* corals drive fish corallivory on tropical reefs. *Ecosphere*
 
-- **Hsu, T.-H. T.**, Hoey, A. S., Warren, C. R., Marrable, I., & Figueira, W. F. (2026). Behavioural, physiological, and biochemical responses of two species of scleractinian coral to butterflyfish predation. *Mar Environ Res*, 218,
-
-  108026. <https://doi.org/10.1016/j.marenvres.2026.108026>
+- **Hsu, T.-H. T.**, Hoey, A. S., Warren, C. R., Marrable, I., & Figueira, W. F. (2026). Behavioural, physiological, and biochemical responses of two species of scleractinian coral to butterflyfish predation. *Mar Environ Res*, 218, 108026. <https://doi.org/10.1016/j.marenvres.2026.108026>
 
 - **Hsu, T.-H. T.**, Gordon, S., Ferrari, R., Hoey, A. S., & Figueira, W. F. (2025). Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. *Coral Reefs*, *44*(2), 435-449. <https://doi.org/10.1007/s00338-024-02613-6>
 
