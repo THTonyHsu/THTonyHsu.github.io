@@ -6,6 +6,10 @@ format:
     toc-depth: 2
 ---
 
+::: {style="text-align: left; margin-bottom: 20px;"}
+<a class="btn btn-primary" href="Tony Hsu_CV.pdf" target="_blank" role="button"> <i class="bi bi-file-earmark-pdf"></i> Download Full CV (PDF) </a>
+:::
+
 **Location:** Sydney, Australia\
 **Email:** [tony.tsaihsuan.hsu\@gmail.com](mailto:tony.tsaihsuan.hsu@gmail.com)\
 **Languages:** Mandarin (Native), English (Fluent), Japanese (Intermediate)
@@ -82,8 +86,6 @@ format:
 - **One Tree Island Research Station Scholarship**, USYD (AU\$ 4,000) \| *2023*
 - **Research Scholarship**, Institute of Oceanography, NTU (AU\$ 2,400) \| *2020 – 2022*
 
-------------------------------------------------------------------------
-
 ## Academic Awards & Honours
 
 - **Honourable Mention Oral Presentation Award**, Taiwanese Coral Reef Society \| *2026*
@@ -92,8 +94,6 @@ format:
 - **Excellent Performance Presentation Award**, Taiwanese Coral Reef Society \| *2022*
 - **Honourable Mention Poster Award**, Taiwanese Coral Reef Society \| *2020*
 - **Presidential Award (x3)**, Department of Life Science, NTU \| *2017 – 2019*
-
-------------------------------------------------------------------------
 
 ## Selected Conference Presentations
 
@@ -104,8 +104,6 @@ format:
 - **Oral:** Taiwan International Symposium on Coral Reefs, Taichung, Taiwan \| *2024*
 - **Poster:** Australian Marine Sciences Association (AMSA), Hobart, Australia \| *2024*
 - **Oral:** Australian Marine Sciences Association (AMSA), Gold Coast, Australia \| *2023*
-
-------------------------------------------------------------------------
 
 ## Technical Skills & Certifications
 
