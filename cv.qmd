@@ -1,0 +1,160 @@
+---
+title: "Tsai-Hsuan (Tony) Hsu 徐才烜"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+**Location:** Sydney, Australia\
+**Email:** [tony.tsaihsuan.hsu\@gmail.com](mailto:tony.tsaihsuan.hsu@gmail.com)\
+**Languages:** Mandarin (Native), English (Fluent), Japanese (Intermediate)
+
+## Education
+
+### **Ph.D. in Marine Ecology** \| *Oct 2022 – Jun 2026*
+
+**School of Life and Environmental Sciences, The University of Sydney (USYD)**, Sydney, Australia
+
+- **Thesis:** *Drivers and consequences of fish corallivory on coral reefs* (Submitted 30 June 2026)
+
+- **Supervisors:** Prof. Will F. Figueira and Prof. Andrew S. Hoey
+
+- **Honours:** Recipient of Taiwan & USYD Joint PhD Scholarship
+
+### **M.Sc. in Marine Biology and Fisheries** \| *Sep 2020 – Jun 2022*
+
+**Institute of Oceanography, National Taiwan University (NTU)**, Taipei, Taiwan
+
+- **Thesis:** *Navigating the scales of diversity in subtropical and coastal fish assemblages ascertained by eDNA and visual surveys*
+
+- **Supervisors:** Assoc. Prof. Vianney Denis and Prof. Wei-Jen Chen
+
+- **Honours:** Dean’s Award (Top academic performance)
+
+### **B.Sc. in Life Science** \| *Sep 2016 – Jan 2020*
+
+**Department of Life Science, National Taiwan University (NTU)**, Taipei, Taiwan
+
+- **Honours:** Three-time recipient of the Presidential Award
+
+## Research & Professional Experience
+
+### **PhD Researcher & Project Contributor** \| *Oct 2022 – Present*
+
+**USYD & The Australian Institute of Marine Science (AIMS)**
+
+- Designed and executed comprehensive field surveys investigating reef fish assemblages and feeding behaviours.
+
+- Contributed to the Ecological Intelligence for Reef Restoration Project (EcoRRAP), conducting UVC and RUV surveys.
+
+- Independently managed complex compliance approvals, securing Great Barrier Reef Marine Park Authority (GBRMPA) and Queensland Fisheries permits alongside animal ethics approvals. \* Supported and mentored junior team members in field and laboratory settings.
+
+### **Casual Academic** \| *Jul 2023 – Present*
+
+**The University of Sydney**, Sydney, Australia
+
+- Mentored and supervised undergraduate students in laboratory and field settings for *Biostatistics*, *Marine Biology*, and *Coral Reef Biology* courses.
+
+- Evaluated technical reports and provided constructive feedback on data analysis and scientific writing.
+
+### **Research Assistant** \| *Jun 2022 – Aug 2022*
+
+**Ocean Center, College of Science, NTU**, Taipei, Taiwan
+
+- *Project:* Important Ecosystems Survey and Ecosystem Services Evaluation in Sea Areas around Taiwan.
+
+- Conducted marine fauna baseline surveys, collected environmental data, and assisted with data management and technical reporting.
+
+### **Master’s Researcher** \| *Sep 2020 – Jun 2022*
+
+**Functional Reef Ecology Lab, NTU**, Taipei, Taiwan
+
+- Investigated subtropical reef fish diversity by integrating eDNA with traditional visual and video censuses.
+
+## Research Grants & Scholarships
+
+- **Taiwan and USYD Joint PhD Scholarship** (equiv. AU\$ 316,000) \| *2022 – 2026*
+- **Student Travel Award**, Australian Coral Reef Society (ICRS) (AU\$ 1,000) \| *2026*
+- **Postgraduate Research Support Scheme (x3)**, USYD (AU\$ 7,700) \| *2023 – 2025*
+- **Ruhm Award**, Marine Studies Institute, USYD (AU\$ 5,000) \| *2024*
+- **Holsworth Wildlife Research Endowment**, Ecological Society of Australia (AU\$ 7,400) \| *2023*
+- **One Tree Island Research Station Scholarship**, USYD (AU\$ 4,000) \| *2023*
+- **Research Scholarship**, Institute of Oceanography, NTU (AU\$ 2,400) \| *2020 – 2022*
+
+------------------------------------------------------------------------
+
+## Academic Awards & Honours
+
+- **Honourable Mention Oral Presentation Award**, Taiwanese Coral Reef Society \| *2026*
+- **Dean’s Award**, College of Science, NTU \| *2022*
+- **First Prize**, Youth Forum Presentation, Institute of Oceanography, NTU \| *2022*
+- **Excellent Performance Presentation Award**, Taiwanese Coral Reef Society \| *2022*
+- **Honourable Mention Poster Award**, Taiwanese Coral Reef Society \| *2020*
+- **Presidential Award (x3)**, Department of Life Science, NTU \| *2017 – 2019*
+
+------------------------------------------------------------------------
+
+## Selected Conference Presentations
+
+- **Oral:** International Coral Reef Symposium (ICRS), Auckland, New Zealand \| *2026*
+- **Oral:** Taiwan International Symposium on Coral Reefs, Kaohsiung, Taiwan \| *2026*
+- **Oral:** HDR Showcase, SOLES, USYD, Sydney, Australia \| *2025*
+- **Oral:** Joint Conference of ASI and IPFC 12, Taipei, Taiwan \| *2025*
+- **Oral:** Taiwan International Symposium on Coral Reefs, Taichung, Taiwan \| *2024*
+- **Poster:** Australian Marine Sciences Association (AMSA), Hobart, Australia \| *2024*
+- **Oral:** Australian Marine Sciences Association (AMSA), Gold Coast, Australia \| *2023*
+
+------------------------------------------------------------------------
+
+## Technical Skills & Certifications
+
+### **Field & Survey Techniques**
+
+- **Marine Fish Surveys:** Underwater Visual Census (UVC), Unbaited Remote Underwater Video (RUVs / stereo-RUVs), eDNA sampling.
+- **Benthic Surveys:** Photogrammetry, photo-quadrat surveys, coral sampling & tagging.
+- **Scientific Diving:** PADI Rescue Diver (338+ logged dives).
+
+### **Laboratory & Analytical Skills**
+
+- **Molecular:** Fish eDNA metabarcoding, DNA extraction, PCR, capillary electrophoresis.
+- **Biochemical:** Lipid extraction & fatty acid analysis (GC-MS), stable isotope analysis (DELTA V Advantage), protein & chlorophyll extraction.
+- **Morphological:** Otolith extraction and fish specimen fixation.
+
+### **Data Analysis & Computational Tools**
+
+- **Statistical Analysis & Visualization:** Advanced modeling in R (GLMMs, piecewiseSEM, ggplot2).
+- **Video & Image Annotation:** EventMeasure (SeaGIS), CoralNet, CPCe.
+- **Bioinformatics:** Phylogenetic tree construction (CIPRES, MEGA).
+
+### **Licenses & Certifications**
+
+- Class C Driver License (NSW, Australia & Taiwan)
+- General Boat License (NSW, Australia)
+- First Aid, CPR, Advanced Resuscitation, and Oxygen Therapy
+
+## Lists of Publications
+
+### Published
+
+- **Hsu, T.-H. T.**, Hoey, A. S., Ferrari, R., Toor, M., Gordon, S., Remmers, T., Smallhorn-West, J., Piccaluga, A., & Figueira, W. F. (in press). Corallivore assemblage, feeding behaviour, and cover of *Acropora* corals drive fish corallivory on tropical reefs. *Ecosphere*
+
+- **Hsu, T.-H. T.**, Hoey, A. S., Warren, C. R., Marrable, I., & Figueira, W. F. (2026). Behavioural, physiological, and biochemical responses of two species of scleractinian coral to butterflyfish predation. *Mar Environ Res*, 218,
+
+  108026. <https://doi.org/10.1016/j.marenvres.2026.108026>
+
+- **Hsu, T.-H. T.**, Gordon, S., Ferrari, R., Hoey, A. S., & Figueira, W. F. (2025). Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. *Coral Reefs*, *44*(2), 435-449. <https://doi.org/10.1007/s00338-024-02613-6>
+
+- Sommer, B., Malcolm, H. A., Cooney, C., Dalton, S. J., Foo, S. A., Fraser, N., **Hsu, T.-H. T.**, Maguire, D., Nimbs, M. J., Strehling, N., Webb, M., & Byrne, M. (2025). Understanding and managing species range shifts: first observed mixed-species outbreak and coral predation by crown-of-thorns starfish (*Acanthaster brevispinus* and *A.* cf. *solaris*) on subtropical reefs. *Mar Environ Res*, *212*, 107556. <https://doi.org/10.1016/j.marenvres.2025.107556>
+
+- De Palmas, S., Chen, Q., Guerbet, A., Hsieh, Y. E., **Hsu, T.-H. T.**, Lin, Y. V., Sturaro, N., Wang, P.-L., & Denis, V. (2025). Energy acquisition and allocation strategies in scleractinian corals: insights from intraspecific trait variability. *Coral Reefs*, *44*(2), 489-500. <https://doi.org/10.1007/s00338-025-02617-w>
+
+- **Hsu, T.-H. T.**, Chen, W.-J., & Denis, V. (2023). Navigating the scales of diversity in subtropical and coastal fish assemblages ascertained by eDNA and visual surveys. *Ecological Indicators*, *148*, 110044. <https://doi.org/10.1016/j.ecolind.2023.110044>
+
+- **Hsu, T.-H. T.**, Carlu, L., Hsieh, Y. E., Lai, T.-Y. A., Wang, C.-W., Huang, C.-Y., Yang, S.-H., Wang, P.-L., Sturaro, N., & Denis, V. (2020). Stranger things: organismal traits of two octocorals associated with singular Symbiodiniaceae in a high-latitude coral community from northern Taiwan. *Frontiers in Marine Science*, *7*(1158). <https://doi.org/10.3389/fmars.2020.606601>
+
+### Under review
+
+- **Hsu, T.-H. T.**, Hoey, A. S., Clark, G. F., Ferrari, R., Fournet, C., Marrable, I., Piccaluga, A., Turnbull, J. W., Wilson, B., & Figueira, W. F. (in review). Understanding the drivers of coral consumption rates by butterflyfishes in a lagoonal reef system.
+
+- Marrable, I., Piccaluga, A., **Hsu, T.-H. T.**, Turnbull, J., Warren, C., Marzinelli, E. M., Ortiz, J.-C., & Figueira, W. F. (in review). Dietary specialisation modulates vulnerability of butterflyfishes to disturbance events.

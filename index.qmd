@@ -1,0 +1,18 @@
+---
+about:
+  template: trestles
+  image: Photo.jpg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/tsai-hsuan-hsu-612147138
+    - text: ORCID
+      href: https://orcid.org/0000-0002-9362-9769
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=FDbtPOwAAAAJ&hl=en&authuser=1
+---
+
+## About Me
+
+I am a fish ecologist at the University of Sydney with a strong interest in behaviour, interaction, and ecological functions in primarily but not limited to coral reef ecosystems. I used multiple tools including fish surveys (visual census, video-based techniques, and eDNA), benthic surveys (photogrammetry and photo-transect), and lab-based approaches (stable isotopes, fatty acids, and other organismal traits) to answer my research questions. With my PhD thesis recently submitted, I am actively seeking postdoctoral, academic, or research-intensive roles where I can apply my skills. I am always open to discussing new collaborations or opportunities. Please feel free to connect or contact me directly at tony.tsaihsuan.hsu\@gmail.com.

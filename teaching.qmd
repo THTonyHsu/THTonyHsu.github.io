@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+---
+
+Apart from research, I am an enthusiastic educator dedicated to passing on knowledge, fostering scientific curiosity, and providing hands-on guidance for undergraduate students both in the laboratory and out in the field.
+
+## Course Instruction & Demonstrating
+
+### Coral Reef Biology
+
+- **Role:** Laboratory & Field Instructor
+- **Focus:** Leading laboratory sessions and field excursions to explore dominant taxa in coral reef environments, analyze structural linkages within benthic communities, and assess the ecological impacts of environmental change on coral reef health.
+
+### Marine Biology
+
+- **Role:** Laboratory & Field Instructor
+- **Focus:** Facilitating laboratory practicals and field-based excursions designed to help students understand the detailed biological and ecological processes critical to the establishment and maintenance of marine communities.
+
+### Introduction to Statistical Methods
+
+- **Role:** Workshop tutor
+- **Focus:** Leading interactive workshop sessions for first-year undergraduate students. Focused on building foundational statistical thinking, data literacy, and practical computational skills in R to solve real-world ecological problems.
+
+## Teaching Philosophy
+
+My approach to higher education centers on three core pillars:
+
+1.  **Hands-On Field & Lab Experience:** Bridging theoretical concepts with real-world application through direct observation of marine organisms and community dynamics.
+2.  **Quantitative Confidence:** Demystifying data analysis and computational tools early in students' academic journeys to build robust problem-solving skills.
+3.  **Inclusive Mentorship:** Creating an encouraging environment where students feel supported in asking questions, designing experiments, and developing critical scientific reasoning.
