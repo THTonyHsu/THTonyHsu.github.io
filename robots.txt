@@ -1,1 +1,1 @@
-Sitemap: https://THTonyHsu.github.io/myweb/sitemap.xml
+Sitemap: https://THTonyHsu.github.io/sitemap.xml
