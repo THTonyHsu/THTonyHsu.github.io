@@ -18,7 +18,7 @@ Apart from research, I am an enthusiastic educator dedicated to passing on knowl
 
 ### Introduction to Statistical Methods
 
-- **Role:** Workshop tutor
+- **Role:** Workshop Tutor
 - **Focus:** Leading interactive workshop sessions for first-year undergraduate students. Focused on building foundational statistical thinking, data literacy, and practical computational skills in R to solve real-world ecological problems.
 
 ## Teaching Philosophy
