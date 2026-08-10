@@ -22,9 +22,13 @@ This research focus moves beyond static community metrics to quantify dynamic ec
 
 Applying optimised video sampling developed in our methodology work ([Hsu et al., 2025](https://doi.org/10.1007/s00338-024-02613-6)), this project investigated ecological drivers of fish corallivory across coral reefs and within a reef lagoon in northeast Australia. This is achieved through a combination of ecological field surveys on fish and benthic communities, intense behavioural observations, and photogrammetry-based 3D mapping.
 
-- **Broad Scale:** Total bite rates (bites per 30 min) of obligate corallivorous fishes were directly and positively influenced by species richness and feeding behaviour (duration and intensity). Predation risk and structural complexity showed no significant direct or indirect negative effects. ![Sites across coral reefs](images/Map_broad.png){fig-align="center" width="75%"}
+- **Broad Scale:** Total bite rates (bites per 30 min) of obligate corallivorous fishes were directly and positively influenced by species richness and feeding behaviour (duration and intensity). Predation risk and structural complexity showed no significant direct or indirect negative effects.
 
-- **Lagoon Scale:** Going beyond bite rates, daily coral consumption by obligate corallivorous butterflyfish assemblages was estimated using stereo-RUVs. Species richness remained the strongest positive driver of coral consumption. Reef complexity exhibited scale-dependent effects, indirectly mediated by feeding duration, suggesting fine-scale complexity creates safer foraging grounds that facilitate longer feeding bouts and greater coral consumption. ![Sites within lagoon](images/Map_OTI.png){fig-align="center" width="75%"}
+![Study sites across coral reefs in northeast Australia (Hsu et al., 2026).](images/Map_broad.png){fig-align="center" width="75%"}
+
+- **Lagoon Scale:** Going beyond bite rates, daily coral consumption by obligate corallivorous butterflyfish assemblages was estimated using stereo-RUVs. Species richness remained the strongest positive driver of coral consumption. Reef complexity exhibited scale-dependent effects, indirectly mediated by feeding duration, suggesting fine-scale complexity creates safer foraging grounds that facilitate longer feeding bouts and greater coral consumption.
+
+![Study sites within One Tree Reef Lagoon, southern Great Barrier Reef, Australia (Hsu et al., in review).](images/Map_OTI.png){fig-align="center" width="75%"}
 
 - **Keywords:** Ecological function, Feeding behaviour, Coral removal rates, Coral predation, Chaetodontidae, Reef structural complexity, Indirect effects.
 
@@ -43,7 +47,9 @@ Predation elicited species-specific sub-lethal responses:
 
 - ***Pocillopora damicornis*****:** Kept most polyps extended to sustain heterotrophy, maintaining growth likely through mobilising fatty acids from storage lipids of both heterotrophic and autotrophic sources.
 
-These short-term sub-lethal impacts could elevate coral susceptibility to environmental stress. ![Tank experiment](images/Tank_Abs.png){width="100%" fig-align="center"}
+These short-term sub-lethal impacts could elevate coral susceptibility to environmental stress.
+
+![Graphical abstract from Hsu et al. (2026).](images/Tank_Abs.png){width="100%" fig-align="center"}
 
 - **Keywords:** Fish corallivory, Coral browser, Energy trade-offs, Trophic strategy, Buoyant weight, Fatty acid profile, Gas chromatography–mass spectrometry.
 
@@ -55,7 +61,7 @@ These short-term sub-lethal impacts could elevate coral susceptibility to enviro
 
 - **Overview:** Documented the first mixed-species outbreak and coral predation by Crown-of-Thorns Starfish (*Acanthaster brevispinus* and *A. cf. solaris*) on subtropical reefs to inform management of climate-driven range shifts.
 
-![](images/Sommer_Abs.jpg){width="60%" fig-align="center"}
+![Graphical abstarct from Sommer et al. (2025).](images/Sommer_Abs.jpg){width="60%" fig-align="center"}
 
 - **Keywords:** *Acanthaster*, Corallivory, Range shifts, Subtropical reef management.
 
@@ -83,7 +89,9 @@ This project evaluated the efficacy and spatial resolution of Environmental DNA 
 
 - $\alpha$-diversity (Local Richness): Visual surveys (UVC/DOV) proved superior for examining micro-habitat and benthic interactions, though no single method captured the complete local fauna.
 
-- **Key Takeaway:** Survey methodologies should be selected based on specific ecological questions and target spatial scales rather than defaulted to combination approaches. ![Fish diversity](images/eDNA_Abs.jpg){width="100%" fig-align="center"}
+- **Key Takeaway:** Survey methodologies should be selected based on specific ecological questions and target spatial scales rather than defaulted to combination approaches.
+
+![Graphical abstract from Hsu et al. (2023).](images/eDNA_Abs.jpg){width="100%" fig-align="center"}
 
 - **Keywords:** Metabarcoding,12S rRNA, Ichthyofauna, Spatial turnover, Benthos, Taiwan.
 
@@ -105,7 +113,9 @@ Examined how scleractinian corals allocate energy resources across intraspecific
 
 ### 3.2 High-Latitude Octocoral Traits & Singular *Symbiodiniaceae* Associations
 
-Investigated the organismal traits and unique algal symbiont associations of two octocoral species inhabiting a high-latitude, marginal coral community in northern Taiwan. ![Soft coral](images/Litophyton_Stereonephthya.png){width="100%" fig-align="center"}
+Investigated the organismal traits and unique algal symbiont associations of two octocoral species inhabiting a high-latitude, marginal coral community in northern Taiwan.
+
+![Study octocoral species in Hsu et al. (2020).](images/Litophyton_Stereonephthya.png){width="100%" fig-align="center"}
 
 - **Keywords:** Stable isotope, Intraspecific variation, Trade-off, Plasticity, Functionality, Algal symbiont, Trait-based approach, Soft corals.
 
