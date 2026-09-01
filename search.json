@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Apart from research, I am an enthusiastic educator dedicated to passing on knowledge, fostering scientific curiosity, and providing hands-on guidance for undergraduate students both in the laboratory and out in the field."
+  },
+  {
+    "objectID": "teaching.html#course-instruction-demonstrating",
+    "href": "teaching.html#course-instruction-demonstrating",
+    "title": "Teaching",
+    "section": "Course Instruction & Demonstrating",
+    "text": "Course Instruction & Demonstrating\n\nCoral Reef Biology\n\nRole: Laboratory & Field Instructor\nFocus: Leading laboratory sessions and field excursions to explore dominant taxa in coral reef environments, analyze structural linkages within benthic communities, and assess the ecological impacts of environmental change on coral reef health.\n\n\n\nMarine Biology\n\nRole: Laboratory & Field Instructor\nFocus: Facilitating laboratory practicals and field-based excursions designed to help students understand the detailed biological and ecological processes critical to the establishment and maintenance of marine communities.\n\n\n\nIntroduction to Statistical Methods\n\nRole: Workshop Tutor\nFocus: Leading interactive workshop sessions for first-year undergraduate students. Focused on building foundational statistical thinking, data literacy, and practical computational skills in R to solve real-world ecological problems."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nMy approach to higher education centers on three core pillars:\n\nHands-On Field & Lab Experience: Bridging theoretical concepts with real-world application through direct observation of marine organisms and community dynamics.\nQuantitative Confidence: Demystifying data analysis and computational tools early in students’ academic journeys to build robust problem-solving skills.\nInclusive Mentorship: Creating an encouraging environment where students feel supported in asking questions, designing experiments, and developing critical scientific reasoning."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tony Hsu",
+    "section": "",
+    "text": "I am a marine ecologist who recently completed my PhD at the University of Sydney (passed defense with no corrections; degree conferral November 2026). My research focuses on fish behaviour, ecological interactions, and ecosystem function across coral reefs and marine habitats. I integrate fish surveys (visual census, stereo-RUVs, and eDNA), benthic photogrammetry, and organismal trait assays (lipids, fatty acids, and stable isotopes) to investigate functional dynamics across spatial scales. I am actively seeking postdoctoral, academic, and research-intensive opportunities. Feel free to reach out directly at tony.tsaihsuan.hsu@gmail.com."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Tony Hsu",
+    "section": "",
+    "text": "I am a marine ecologist who recently completed my PhD at the University of Sydney (passed defense with no corrections; degree conferral November 2026). My research focuses on fish behaviour, ecological interactions, and ecosystem function across coral reefs and marine habitats. I integrate fish surveys (visual census, stereo-RUVs, and eDNA), benthic photogrammetry, and organismal trait assays (lipids, fatty acids, and stable isotopes) to investigate functional dynamics across spatial scales. I am actively seeking postdoctoral, academic, and research-intensive opportunities. Feel free to reach out directly at tony.tsaihsuan.hsu@gmail.com."
+  },
+  {
+    "objectID": "index.html#some-fun-photos",
+    "href": "index.html#some-fun-photos",
+    "title": "Tony Hsu",
+    "section": "Some Fun Photos",
+    "text": "Some Fun Photos\n\nChaetodon rainfordi (Rainford’s butterflyfish) is such a fascinating species to center a PhD around!\n\n\n\nConducting fish visual census on the southern GBR, Australia\n\n\n\nPhotogrammetry-mapping at One Tree Island, southern GBR, Australia"
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Tsai-Hsuan (Tony) Hsu 徐才烜",
@@ -11,7 +53,7 @@
     "href": "cv.html#education",
     "title": "Tsai-Hsuan (Tony) Hsu 徐才烜",
     "section": "Education",
-    "text": "Education\n\nPh.D. in Marine Ecology | Oct 2022 – Jun 2026\nSchool of Life and Environmental Sciences, The University of Sydney (USYD), Sydney, Australia\n\nThesis: Drivers and consequences of fish corallivory on coral reefs (Submitted 30 June 2026)\nSupervisors: Prof. Will F. Figueira and Prof. Andrew S. Hoey\nHonours: Recipient of Taiwan & USYD Joint PhD Scholarship\n\n\n\nM.Sc. in Marine Biology and Fisheries | Sep 2020 – Jun 2022\nInstitute of Oceanography, National Taiwan University (NTU), Taipei, Taiwan\n\nThesis: Navigating the scales of diversity in subtropical and coastal fish assemblages ascertained by eDNA and visual surveys\nSupervisors: Assoc. Prof. Vianney Denis and Prof. Wei-Jen Chen\nHonours: Dean’s Award (Top academic performance)\n\n\n\nB.Sc. in Life Science | Sep 2016 – Jan 2020\nDepartment of Life Science, National Taiwan University (NTU), Taipei, Taiwan\n\nHonours: Three-time recipient of the Presidential Award"
+    "text": "Education\n\nPh.D. in Marine Ecology | Oct 2022 – present\nSchool of Life and Environmental Sciences, The University of Sydney (USYD), Sydney, Australia\n\nThesis successfully defended with no corrections (Conferral: Nov 2026)\nThesis: Drivers and consequences of fish corallivory on coral reefs (Submitted 30 June 2026)\nSupervisors: Prof. Will F. Figueira and Prof. Andrew S. Hoey\nHonours: Recipient of Taiwan & USYD Joint PhD Scholarship\n\n\n\nM.Sc. in Marine Biology and Fisheries | Sep 2020 – Jun 2022\nInstitute of Oceanography, National Taiwan University (NTU), Taipei, Taiwan\n\nThesis: Navigating the scales of diversity in subtropical and coastal fish assemblages ascertained by eDNA and visual surveys\nSupervisors: Assoc. Prof. Vianney Denis and Prof. Wei-Jen Chen\nHonours: Dean’s Award (Top academic performance)\n\n\n\nB.Sc. in Life Science | Sep 2016 – Jan 2020\nDepartment of Life Science, National Taiwan University (NTU), Taipei, Taiwan\n\nHonours: Three-time recipient of the Presidential Award"
   },
   {
     "objectID": "cv.html#research-professional-experience",
@@ -54,48 +96,6 @@
     "title": "Tsai-Hsuan (Tony) Hsu 徐才烜",
     "section": "Lists of Publications",
     "text": "Lists of Publications\n\nPublished\n\nHsu, T.-H. T., Hoey, A. S., Ferrari, R., Toor, M., Gordon, S., Remmers, T., Smallhorn-West, J., Piccaluga, A., & Figueira, W. F. (in press). Corallivore assemblage, feeding behaviour, and cover of Acropora corals drive fish corallivory on tropical reefs. Ecosphere\nHsu, T.-H. T., Hoey, A. S., Warren, C. R., Marrable, I., & Figueira, W. F. (2026). Behavioural, physiological, and biochemical responses of two species of scleractinian coral to butterflyfish predation. Mar Environ Res, 218,\n\nhttps://doi.org/10.1016/j.marenvres.2026.108026\n\nHsu, T.-H. T., Gordon, S., Ferrari, R., Hoey, A. S., & Figueira, W. F. (2025). Optimizing remote underwater video sampling to quantify relative abundance, richness, and corallivory rates of reef fish. Coral Reefs, 44(2), 435-449. https://doi.org/10.1007/s00338-024-02613-6\nSommer, B., Malcolm, H. A., Cooney, C., Dalton, S. J., Foo, S. A., Fraser, N., Hsu, T.-H. T., Maguire, D., Nimbs, M. J., Strehling, N., Webb, M., & Byrne, M. (2025). Understanding and managing species range shifts: first observed mixed-species outbreak and coral predation by crown-of-thorns starfish (Acanthaster brevispinus and A. cf. solaris) on subtropical reefs. Mar Environ Res, 212, 107556. https://doi.org/10.1016/j.marenvres.2025.107556\nDe Palmas, S., Chen, Q., Guerbet, A., Hsieh, Y. E., Hsu, T.-H. T., Lin, Y. V., Sturaro, N., Wang, P.-L., & Denis, V. (2025). Energy acquisition and allocation strategies in scleractinian corals: insights from intraspecific trait variability. Coral Reefs, 44(2), 489-500. https://doi.org/10.1007/s00338-025-02617-w\nHsu, T.-H. T., Chen, W.-J., & Denis, V. (2023). Navigating the scales of diversity in subtropical and coastal fish assemblages ascertained by eDNA and visual surveys. Ecological Indicators, 148, 110044. https://doi.org/10.1016/j.ecolind.2023.110044\nHsu, T.-H. T., Carlu, L., Hsieh, Y. E., Lai, T.-Y. A., Wang, C.-W., Huang, C.-Y., Yang, S.-H., Wang, P.-L., Sturaro, N., & Denis, V. (2020). Stranger things: organismal traits of two octocorals associated with singular Symbiodiniaceae in a high-latitude coral community from northern Taiwan. Frontiers in Marine Science, 7(1158). https://doi.org/10.3389/fmars.2020.606601\n\n\n\nUnder review\n\nHsu, T.-H. T., Hoey, A. S., Clark, G. F., Ferrari, R., Fournet, C., Marrable, I., Piccaluga, A., Turnbull, J. W., Wilson, B., & Figueira, W. F. (in review). Understanding the drivers of coral consumption rates by butterflyfishes in a lagoonal reef system.\nMarrable, I., Piccaluga, A., Hsu, T.-H. T., Turnbull, J., Warren, C., Marzinelli, E. M., Ortiz, J.-C., & Figueira, W. F. (in review). Dietary specialisation modulates vulnerability of butterflyfishes to disturbance events."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tony Hsu",
-    "section": "",
-    "text": "I am a fish ecologist at the University of Sydney with a strong interest in behaviour, interaction, and ecological functions in primarily but not limited to coral reef ecosystems. I used multiple tools including fish surveys (visual census, video-based techniques, and eDNA), benthic surveys (photogrammetry and photo-transect), and lab-based approaches (stable isotopes, fatty acids, and other organismal traits) to answer my research questions. With my PhD thesis recently submitted, I am actively seeking postdoctoral, academic, or research-intensive roles where I can apply my skills. I am always open to discussing new collaborations or opportunities. Please feel free to connect or contact me directly at tony.tsaihsuan.hsu@gmail.com."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Tony Hsu",
-    "section": "",
-    "text": "I am a fish ecologist at the University of Sydney with a strong interest in behaviour, interaction, and ecological functions in primarily but not limited to coral reef ecosystems. I used multiple tools including fish surveys (visual census, video-based techniques, and eDNA), benthic surveys (photogrammetry and photo-transect), and lab-based approaches (stable isotopes, fatty acids, and other organismal traits) to answer my research questions. With my PhD thesis recently submitted, I am actively seeking postdoctoral, academic, or research-intensive roles where I can apply my skills. I am always open to discussing new collaborations or opportunities. Please feel free to connect or contact me directly at tony.tsaihsuan.hsu@gmail.com."
-  },
-  {
-    "objectID": "index.html#some-fun-photos",
-    "href": "index.html#some-fun-photos",
-    "title": "Tony Hsu",
-    "section": "Some Fun Photos",
-    "text": "Some Fun Photos\n\nChaetodon rainfordi (Rainford’s butterflyfish) is such a fascinating species to center a PhD around!\n\n\n\nConducting fish visual census on the southern GBR, Australia\n\n\n\nPhotogrammetry-mapping at One Tree Island, southern GBR, Australia"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Apart from research, I am an enthusiastic educator dedicated to passing on knowledge, fostering scientific curiosity, and providing hands-on guidance for undergraduate students both in the laboratory and out in the field."
-  },
-  {
-    "objectID": "teaching.html#course-instruction-demonstrating",
-    "href": "teaching.html#course-instruction-demonstrating",
-    "title": "Teaching",
-    "section": "Course Instruction & Demonstrating",
-    "text": "Course Instruction & Demonstrating\n\nCoral Reef Biology\n\nRole: Laboratory & Field Instructor\nFocus: Leading laboratory sessions and field excursions to explore dominant taxa in coral reef environments, analyze structural linkages within benthic communities, and assess the ecological impacts of environmental change on coral reef health.\n\n\n\nMarine Biology\n\nRole: Laboratory & Field Instructor\nFocus: Facilitating laboratory practicals and field-based excursions designed to help students understand the detailed biological and ecological processes critical to the establishment and maintenance of marine communities.\n\n\n\nIntroduction to Statistical Methods\n\nRole: Workshop Tutor\nFocus: Leading interactive workshop sessions for first-year undergraduate students. Focused on building foundational statistical thinking, data literacy, and practical computational skills in R to solve real-world ecological problems."
-  },
-  {
-    "objectID": "teaching.html#teaching-philosophy",
-    "href": "teaching.html#teaching-philosophy",
-    "title": "Teaching",
-    "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nMy approach to higher education centers on three core pillars:\n\nHands-On Field & Lab Experience: Bridging theoretical concepts with real-world application through direct observation of marine organisms and community dynamics.\nQuantitative Confidence: Demystifying data analysis and computational tools early in students’ academic journeys to build robust problem-solving skills.\nInclusive Mentorship: Creating an encouraging environment where students feel supported in asking questions, designing experiments, and developing critical scientific reasoning."
   },
   {
     "objectID": "research.html",
