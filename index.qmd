@@ -14,7 +14,7 @@ format:
 :::
 
 ::: {.g-col-12 .g-col-md-7}
-I am a fish ecologist at the University of Sydney with a strong interest in behaviour, interaction, and ecological functions in primarily but not limited to coral reef ecosystems. I used multiple tools including fish surveys (visual census, video-based techniques, and eDNA), benthic surveys (photogrammetry and photo-transect), and lab-based approaches (stable isotopes, fatty acids, and other organismal traits) to answer my research questions. With my PhD thesis recently submitted, I am actively seeking postdoctoral, academic, or research-intensive roles where I can apply my skills. I am always open to discussing new collaborations or opportunities. Please feel free to connect or contact me directly at [tony.tsaihsuan.hsu\@gmail.com](mailto:tony.tsaihsuan.hsu@gmail.com).
+I am a marine ecologist who recently completed my PhD at the University of Sydney (passed defense with no corrections; degree conferral November 2026). My research focuses on fish behaviuor, ecological interactions, and ecosystem function across coral reefs and marine habitats. I integrate fish surveys (visual census, stereo-RUVs, and eDNA), benthic photogrammetry, and organismal trait assays (lipids, fatty acids, and stable isotopes) to investigate functional dynamics across spatial scales. I am actively seeking postdoctoral, academic, and research-intensive opportunities. Feel free to reach out directly at [tony.tsaihsuan.hsu\@gmail.com](mailto:tony.tsaihsuan.hsu@gmail.com).
 :::
 :::::
 
