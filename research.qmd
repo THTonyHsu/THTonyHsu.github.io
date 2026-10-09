@@ -34,7 +34,7 @@ Applying optimised video sampling developed in our methodology work ([Hsu et al.
 
 - **Publications & Manuscripts:**
 
-  - **Hsu, T.-H. T.**, et al. (2026). Corallivore assemblage, feeding behaviour, and cover of *Acropora* corals drive fish corallivory on tropical reefs. *Ecosphere*.
+  - **Hsu, T.-H. T.**, et al. (2026). Corallivore assemblage, feeding behaviour, and cover of *Acropora* corals drive fish corallivory on tropical reefs. [*Ecosphere*](https://doi.org/10.1002/ecs2.70775).
   - **Hsu, T.-H. T.**, et al. (In Review). Understanding the drivers of coral consumption rates by butterflyfishes in a lagoonal reef system.
 
 ### 1.2 Effects of Butterflyfish Predation on Corals
