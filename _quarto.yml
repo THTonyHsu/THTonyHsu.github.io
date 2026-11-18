@@ -25,7 +25,7 @@ website:
         href: https://orcid.org/0000-0002-9362-9769
         target: _blank
       - text: "<svg xmlns='http://www.w3.org/2000/svg' width='15' height='15' fill='#4285F4' viewBox='0 0 24 24' style='vertical-align: -0.125em; margin-right: 3px;'><path d='M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.8 3.8v6.2h3V14.1l4.2 3.4 4.2-3.4v5.4h3v-6.2l4.8-3.8L12 0z'/></svg> Scholar"
-        href: https://scholar.google.com/citations?user=FDbtPOwAAAAJ&hl=en&authuser=1
+        href: https://scholar.google.com/citations?user=FDbtPOwAAAAJ
         target: _blank
       - text: "<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' style='vertical-align: -0.125em; margin-right: 4px;'><path fill='#4285F4' d='M20 18h-2V9.25L12 14 6 9.25V18H4V6h1.2l6.8 5.25L18.8 6H20v12z'/><path fill='#EA4335' d='M20 6l-8 6.25L4 6h16z'/><path fill='#FBBC05' d='M4 6v12h2V9.25L12 14l6-4.75V18h2V6H4z'/><path fill='#EA4335' d='M20 6v2.5L12 14.5 4 8.5V6c0-1.1.9-2 2-2h12c1.1 0 2 .9 2 2z'/><path fill='#4285F4' d='M18 20h2c1.1 0 2-.9 2-2V6l-4 3v11z'/><path fill='#34A853' d='M4 20h2V9L2 6v12c0 1.1.9 2 2 2z'/><path fill='#FBBC04' d='M18 6l2-1.5C19.5 4.2 18.8 4 18 4v2z'/><path fill='#EA4335' d='M6 6V4c-.8 0-1.5.2-2 .5L6 6z'/></svg> Email"
         href: mailto:tony.tsaihsuan.hsu@gmail.com
