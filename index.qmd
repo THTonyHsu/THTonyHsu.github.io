@@ -4,6 +4,7 @@ format:
   html:
     embed-resources: true
     toc: true
+    link-external-newwindow: true
 ---
 
 ## About Me
@@ -14,7 +15,7 @@ format:
 :::
 
 ::: {.g-col-12 .g-col-md-7 style="display: flex; flex-direction: column; justify-content: space-between;"}
-I am a marine ecologist who recently completed my PhD at the University of Sydney (passed defense with no corrections; degree conferral November 2026). My research focuses on fish behaviour, ecological interactions, and ecosystem function across coral reefs and marine habitats. I integrate fish surveys (visual census, stereo-RUVs, and eDNA), benthic photogrammetry, and organismal trait assays (lipids, fatty acids, and stable isotopes) to investigate functional dynamics across spatial scales. I am actively seeking postdoctoral, academic, and research-intensive opportunities. Feel free to reach out directly at [tony.tsaihsuan.hsu@gmail.com](mailto:tony.tsaihsuan.hsu@gmail.com).
+I am a marine ecologist holding a PhD from the University of Sydney, preparing to join the REEFS group at Lancaster University in February 2027 as a Senior Research Associate within the [BEACON](https://sallykeith.weebly.com/beacon-project.html) project. My research focuses on fish behaviour, ecological interactions, and ecosystem function across coral reefs and marine habitats. I integrate fish surveys (visual census, stereo-RUVs, and eDNA), benthic photogrammetry, and organismal trait assays (lipids, fatty acids, and stable isotopes) to investigate functional dynamics across spatial scales. I am always open to discussing new research collaborations and academic exchange. Feel free to reach out directly at [tony.tsaihsuan.hsu\@gmail.com](mailto:tony.tsaihsuan.hsu@gmail.com).
 :::
 :::::
 

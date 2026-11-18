@@ -1,5 +1,10 @@
 ---
 title: "Research"
+format:
+  html:
+    embed-resources: true
+    toc: true
+    link-external-newwindow: true
 ---
 
 At heart, I am a **fish ecologist** with a strong foundation in coral physiology and benthic ecology. My work sits at the intersection of fish behaviour, community dynamics, and reef function, exploring how mobile organisms interact with structural benthic habitats and how these dynamics shift across environmental gradients.

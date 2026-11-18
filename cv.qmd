@@ -4,6 +4,7 @@ format:
   html:
     toc: true
     toc-depth: 2
+    link-external-newwindow: true
 ---
 
 ::: {style="text-align: left; margin-bottom: 20px;"}
@@ -16,11 +17,9 @@ format:
 
 ## Education
 
-### **Ph.D. in Marine Ecology** \| *Oct 2022 – present*
+### **Ph.D. in Marine Ecology** \| *Oct 2022 – Nov 2026*
 
 **School of Life and Environmental Sciences, The University of Sydney (USYD)**, Sydney, Australia
-
-- Thesis successfully defended with no corrections (Conferral: Nov 2026)
 
 - **Thesis:** *Drivers and consequences of fish corallivory on coral reefs*
 
@@ -46,7 +45,7 @@ format:
 
 ## Research & Professional Experience
 
-### **PhD Researcher & Project Contributor** \| *Oct 2022 – Present*
+### **PhD Researcher & Project Contributor** \| *Oct 2022 – Nov 2026*
 
 **USYD & The Australian Institute of Marine Science (AIMS)**
 
@@ -56,7 +55,7 @@ format:
 
 - Independently managed complex compliance approvals, securing Great Barrier Reef Marine Park Authority (GBRMPA) and Queensland Fisheries permits alongside animal ethics approvals. \* Supported and mentored junior team members in field and laboratory settings.
 
-### **Casual Academic** \| *Jul 2023 – Present*
+### **Casual Academic** \| *Jul 2023 – Nov 2026*
 
 **The University of Sydney**, Sydney, Australia
 
@@ -137,6 +136,8 @@ format:
 
 ### Published
 
+- Marrable, I., Piccaluga, A., **Hsu, T.-H. T.**, Turnbull, J., Warren, C., Marzinelli, E. M., Ortiz, J.-C., & Figueira, W. F. (in press). Dietary specialisation modulates vulnerability of butterflyfishes to disturbance events. *Coral Reefs*
+
 - **Hsu, T.-H. T.**, Hoey, A. S., Ferrari, R., Toor, M., Gordon, S., Remmers, T., Smallhorn-West, J., Piccaluga, A., & Figueira, W. F. (2026). Corallivore assemblage, feeding behaviour, and cover of *Acropora* corals drive fish corallivory on tropical reefs. *Ecosphere, 17*(9). <https://doi.org/10.1002/ecs2.70775>
 
 - **Hsu, T.-H. T.**, Hoey, A. S., Warren, C. R., Marrable, I., & Figueira, W. F. (2026). Behavioural, physiological, and biochemical responses of two species of scleractinian coral to butterflyfish predation. *Mar Environ Res*, 218,
@@ -156,5 +157,3 @@ format:
 ### Under review
 
 - **Hsu, T.-H. T.**, Hoey, A. S., Clark, G. F., Ferrari, R., Fournet, C., Marrable, I., Piccaluga, A., Turnbull, J. W., Wilson, B., & Figueira, W. F. (in review). Understanding the drivers of coral consumption rates by butterflyfishes in a lagoonal reef system.
-
-- Marrable, I., Piccaluga, A., **Hsu, T.-H. T.**, Turnbull, J., Warren, C., Marzinelli, E. M., Ortiz, J.-C., & Figueira, W. F. (in review). Dietary specialisation modulates vulnerability of butterflyfishes to disturbance events.
